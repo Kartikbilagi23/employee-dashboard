@@ -55,13 +55,13 @@ You can use the following credentials to login and explore the dashboard.
 Here are some screenshots of the Employee Dashboard:
 
 ### Dashboard Overview
-![Dashboard Overview](./screenshots/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ### Task List Cards
-![Task List Cards](./screenshots/task-list-cards.png)
+![Task List Cards](task-list-cards.png)
 
 ### Task Counts
-![Task Counts](./screenshots/task-counts.png)
+![Task Counts](task-counts.png)
 
 
 ## Planned Features
