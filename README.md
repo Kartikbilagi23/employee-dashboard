@@ -54,8 +54,8 @@ You can use the following credentials to login and explore the dashboard.
 
 Here are some screenshots of the Employee Dashboard:
 
-### Dashboard Overview
-![Dashboard Overview](dashboard-overview.png)
+### Dashboard Overview(Admin)
+![Dashboard Overview](admin-dashboard.png)
 
 ### Task List Cards
 ![Task List Cards](task-list-cards.png)
